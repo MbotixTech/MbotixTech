@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [maduranews.eu.org](maduranews.eu.org)
 
-- 📫 How to reach me **mbotairdrop@gmail.com**
+- 📫 How to reach me **mbotixtech@gmail.com**
 
 - 📄 Know about my experiences [-](-)
 
