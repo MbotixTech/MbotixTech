@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [-](-)
 
-- 📝 I regularly write articles on [maduranews.eu.org](maduranews.eu.org)
+- 📝 I regularly write articles on -
 
 - 📫 How to reach me **mbotixtech@gmail.com**
 
