@@ -1,6 +1,6 @@
 <h1 align="center">Hello I am Mbotix Tech</h1>
 
-- 👨‍💻 All of my projects are available at [Nothing](https://gabrielazazil.github.io/)
+- 👨‍💻 All of my projects are available at [Nothing](https://gabriel-azazil.vercel.app/)
 
 - 📫 How to reach me [**email here**](mailto:mbotixtech@gmail.com)
 
