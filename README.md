@@ -3,6 +3,7 @@
 - 👨‍💻 All of my projects are available at [Here Mate](https://www.gabrielazazil.me/)
 
 - 📫 How to reach me [**email here**](mailto:mbotixtech@gmail.com)
+- 🌐 My Telegram Channel [Mbotix Tech](https://t.me/mbotix_tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
