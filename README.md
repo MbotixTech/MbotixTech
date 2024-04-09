@@ -1,14 +1,48 @@
-<h1 align="center">Hello I am Mbotix Tech</h1>
 
-- 👨‍💻 All of my projects are available at [Here Mate](https://www.gabrielazazil.me/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=MbotixTech)](https://git.io/typing-svg)
 
-- 📫 How to reach me [**email here**](mailto:mbotixtech@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=GITHUB.COM%2FMbotixTech)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gabriel_azazil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22597130/mbotix-tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://t.me/xiaogarpu" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Telegram" height="30" width="40" /></a>
-</p>
-<img src=https://count.getloli.com/get/@MbotixTech?theme=rule34/>
+> ### ⚙️ Mastered languages: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+
+> ### 👉 Skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 👋 Already worked for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 🆕 Updates 
+ 
+```PY 
+ [+] Last update: 09/04/204
+ [+] author: MbotixTech
+ [+] owner: Gabriel Az 
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > ### 🎈 Socials 
+ 
+ | ✨ [INSTAGRAM](https://www.instagram.com/ahuulat/) | 💀 [TWITTER](https://twitter.com/gabriel_azazil) | 🌟 [TELEGRAM](https://t.me/xiaogarpu) |
+ 
+ ![DISCORD](https://discord.c99.nl/widget/theme-2/1003618812836446281.png)
+ <br>
+ ```PY
+ .mbas
+ ```
+
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/mbotixtec/count.svg" />
