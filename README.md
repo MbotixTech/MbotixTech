@@ -34,7 +34,7 @@
  
  > ### 🎈 Socials 
  
- | ✨[INSTAGRAM](https://www.instagram.com/ahuulat/) | 💀[TWITTER](https://twitter.com/gabriel_azazil) | 🌟[TELEGRAM](https://t.me/xiaogarpu) | ❄️[LINKEDIN](https://www.linkedin.com/in/mbotix-tech-792a242b9/)
+ | ✨[INSTAGRAM](https://www.instagram.com/ahuulat/) | 💀[TWITTER](https://twitter.com/gabriel_azazil) | 🌟[TELEGRAM](https://t.me/xiaogarpu) | ❄️[LINKEDIN](https://www.linkedin.com/in/mbotix-tech-792a242b9/) | 😎[PORTFOLIO](https://gabrielazazil.me/)
  
  ![DISCORD](https://discord.c99.nl/widget/theme-2/1003618812836446281.png)
  <br>
