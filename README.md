@@ -36,7 +36,7 @@
  
  | ✨[INSTAGRAM](https://www.instagram.com/ahuulat/) | 💀[TWITTER](https://twitter.com/MbotixTECH001) | 🌟[TELEGRAM](https://t.me/xiaogarpu) | ❄️[LINKEDIN](https://www.linkedin.com/in/mbotix-tech-792a242b9/) | 😎[PORTFOLIO](https://mbotixtech.vercel.app/)
  
- ![DISCORD](https://discord.c99.nl/widget/theme-2/1003618812836446281.png)
+ ![DISCORD](https://discord.c99.nl/widget/theme-2/986268842214952970.png)
  <br>
  ```PY
  .mbas
