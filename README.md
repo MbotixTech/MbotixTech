@@ -15,7 +15,7 @@
 
 - 🧠 I build **AI tools**, **Telegram bots**, and **modern websites**
 - 💼 Founder of **Mbotix Tech** — established in 2023
-- 🛠 Using technologies like `Node.js`, `Express`, `MongoDB`, `Gemini API`, `Telegram.js` and `more`
+- 🛠 Using technologies like `Node.js`, `Express`, `MongoDB`, `Gemini API`, `OpenAI API`, `Telegram.js` and `more`
 - 💬 Passionate about automation, data processing, and web innovations
 - 🌍 [Visit my website / portfolio](https://mbotixtech.vercel.app)
 
@@ -26,10 +26,10 @@
 | Category         | Technologies |
 |------------------|--------------|
 | **Languages**     | JavaScript, TypeScript, HTML, CSS, SQL, Python |
-| **Frameworks**    | Node.js, Express.js, Tailwind CSS |
-| **Databases**     | MongoDB, SQLite |
-| **APIs/Services** | Gemini API, Telegram API, Puppeteer |
-| **Tools**         | Git, GitHub, Vercel, Postman, VS Code |
+| **Frameworks**    | Node.js, Express.js, Tailwind CSS, More |
+| **Databases**     | MongoDB, SQLite, More |
+| **APIs/Services** | Gemini API, Telegram API, Puppeteer, OpenAI API, More |
+| **Tools**         | Git, GitHub, Vercel, Postman, VS Code, More |
 
 ---
 
