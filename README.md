@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@MbotixTech-2CA5E0?style=flat&logo=telegram)](https://t.me/xiaogarpu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mbotixtech-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mbotixtech)
