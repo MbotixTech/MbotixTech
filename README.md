@@ -40,7 +40,7 @@
 | [cek-bukti-transfer](https://github.com/MbotixTech/cek-bukti-transfer) | AI tool to verify real vs fake transfer receipts using Gemini API | Node.js, Express, Gemini |
 | [telegram-gallery-bot](https://github.com/MbotixTech/telegram-gallery-bot) | Media upload bot for Telegram with clean UI | Telegram.js, MongoDB |
 | [sosmed-downloader](https://github.com/MbotixTech/sosmed-downloader) | Telegram bot to download videos from TikTok, IG, etc. | Puppeteer, Node.js |
-| [mbotixai](https://github.com/MbotixTech/mini-app-mbotix-ai) | AI-powered image generator using DALL·E 3 | HTML, Tailwind, Express |
+| [mbotixai](https://github.com/MbotixTech/mbotixai) | AI-powered image generator using DALL·E 3 | HTML, JavaScript |
 
 ---
 
