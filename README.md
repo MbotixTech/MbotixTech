@@ -25,7 +25,7 @@
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 09/04/204
+ [+] Last update: 30/05/2025
  [+] author: MbotixTech
  [+] owner: Anon 
  ```
