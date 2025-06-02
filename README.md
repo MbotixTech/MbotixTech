@@ -17,7 +17,7 @@
 - 💼 Founder of **Mbotix Tech** — established in 2023
 - 🛠 Using technologies like `Node.js`, `Express`, `MongoDB`, `Gemini API`, `OpenAI API`, `Telegram.js` and `more`
 - 💬 Passionate about automation, data processing, and web innovations
-- 🌍 [Visit my website / portfolio](https://mbotixtech.vercel.app)
+- 🌍 [Visit my website / portfolio](https://mbotix.tech)
 
 ---
 
