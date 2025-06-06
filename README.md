@@ -41,7 +41,7 @@
 | [telegram-gallery-bot](https://github.com/MbotixTech/telegram-gallery-bot) | Media upload bot for Telegram with clean UI | Telegram.js, MongoDB |
 | [sosmed-downloader](https://github.com/MbotixTech/sosmed-downloader) | Telegram bot to download videos from TikTok, IG, etc. | Puppeteer, Node.js |
 | [mbotixai](https://github.com/MbotixTech/mbotixai) | AI-powered image generator using DALL·E 3 | HTML, JavaScript |
-| [https://github.com/MbotixTech/generate-prompt-ai] | Prompt Generator Using Azure openAI
+| [Prompt-Generator](https://github.com/MbotixTech/generate-prompt-ai) | Prompt Generator Using Azure openAI | Node.ks
 ---
 
 ## 📫 Connect Me
